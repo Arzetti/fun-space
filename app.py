@@ -6,6 +6,7 @@ def luas_segitiga():
     print("luas segitiga adalah: ", luas)
 
 luas_segitiga()
+<<<<<<< HEAD
 
 # Hitung Luas Persegi Pangjang
 def luas_persegi_panjang():
@@ -15,3 +16,6 @@ def luas_persegi_panjang():
     print("Luas persegi adalah: ",luas)
 
 luas_persegi_panjang()
+=======
+# zeti
+>>>>>>> e08fcb44df4adfeff6d85bca2fe4bf01f05bd080
